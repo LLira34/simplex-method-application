@@ -6,6 +6,7 @@ import javax.swing.table.DefaultTableModel;
 /**
  *
  * @author LLira
+ * @author llira34 - GitHub
  */
 public class ViewMain extends javax.swing.JFrame {
 
